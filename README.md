@@ -4,7 +4,7 @@ A desktop app for Windows.
 
 ## Download
 
-### [⬇ Download the latest release →](https://github.com/49ghoul/Hawk/releases/latest)
+### [⬇ Download the latest release →](https://github.com/dekaizen/Hawk/releases/latest)
 
 Download the installer (`.exe`), run it, and launch **Hawk**.
 
